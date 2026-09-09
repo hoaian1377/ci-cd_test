@@ -1,0 +1,12 @@
+{
+  "name": "cicd-demo",
+  "version": "1.0.0",
+  "description": "Một project nhỏ để thử nghiệm CI/CD",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
